@@ -23,6 +23,19 @@
 
 ---
 
+## 사용된 유료 에셋
+1. **Heavy Machinery - Low Poly 3D Models Pack**
+   * **제작사/제작자:** ithappy
+   * **에셋 스토어 링크:** [https://assetstore.unity.com/packages/3d/vehicles/heavy-machinery-low-poly-3d-models-pack-270805]
+   * **사용 목적:** 중장비 3D 오브젝트
+  
+2. **POLYGON - Construction Pack**
+   * **제작사/제작자:** Synty Studios
+   * **에셋 스토어 링크:** [https://assetstore.unity.com/packages/3d/environments/industrial/polygon-construction-pack-art-by-synty-168036]
+   * **사용 목적:** 주변 환경 및 자재 오브젝트
+
+---
+
 # 인게임 화면
 #### 철거
 <img width="700" height="400" alt="철거1" src="https://github.com/user-attachments/assets/1dfb44dc-e5c9-416e-840d-664c8164b701" />
